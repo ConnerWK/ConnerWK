@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=ConnerWK&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWK&count_private=true) -->
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Littlehhh&show_icons=true&hide_border=true&count_private=true" align="left" >
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWK&count_private=true" align="right" > -->
+
+<a>
+  <img align="left" width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=ConnerWK&show_icons=true&hide_border=true&count_private=true&hide=prs" />
+  <img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWK&count_private=true" />
+</a>

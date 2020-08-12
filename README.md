@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWK&count_private=true) -->
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Littlehhh&show_icons=true&hide_border=true&count_private=true" align="left" >
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ConnerWK&show_icons=true&hide_border=true&count_private=true" align="left" >
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnerWK&count_private=true" align="right" > -->
 
